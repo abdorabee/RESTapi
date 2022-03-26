@@ -1,1 +1,1 @@
-# This is a resful api that used express and uuid packeges
+# This is a resful api that uses express and uuid packeges
